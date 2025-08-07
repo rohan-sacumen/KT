@@ -45,4 +45,4 @@ class Rectangle:
         return 2 * (self.width + self.height)
 
 
-obj = Rectangle(15.62, 50.0)
+obj = Rectangle(19.2, 50.0)
